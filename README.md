@@ -1,4 +1,4 @@
-# <img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" width="100px">  I'm Monica Dias!
+# <img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" width="120px">  I'm Monica Dias!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicahdias&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monicahdias&layout=compact&theme=highcontrast)
