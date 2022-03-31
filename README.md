@@ -1,4 +1,4 @@
-# Hello, I'm Monica Dias!          ![welcome-gif](https://user-images.githubusercontent.com/97922536/161062875-1b48dba4-3251-4493-9be4-bf7d18cddeb3.gif)
+# <img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" width="100px">  I'm Monica Dias!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicahdias&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monicahdias&layout=compact&theme=highcontrast)
